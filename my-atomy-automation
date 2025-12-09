@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Atomy Automation</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+    <header>
+        <h1>欢迎来到我的 Atomy AI Automation 网站</h1>
+        <p>这里会展示我的事业自动化进度与工具</p>
+    </header>
+
+    <main>
+        <section class="card">
+            <h2>自动化进度</h2>
+            <p>这里未来可以接 GitHub + Vercel 的 API。</p>
+            <button id="checkProgressBtn">检查进度</button>
+            <div id="progressResult"></div>
+        </section>
+
+        <section class="card">
+            <h2>未来功能</h2>
+            <ul>
+                <li>自动招募客户</li>
+                <li>AI 自动发布内容</li>
+                <li>事业数据分析</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 My Atomy Business Automation</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
