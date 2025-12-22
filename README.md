@@ -58,9 +58,14 @@ To create a practical AI automation system that empowers Atomy business owners t
 
 ---
 
+
+
 ## 📄 Deployment
 
-This project is deployed using **Vercel**, with automatic updates triggered by GitHub commits.
+Live Website (Production):  
+https://atomy-ai-aut-mation.vercel.app
+
+This site is deployed on Vercel with automatic deployments enabled via GitHub.
 
 ---
 
